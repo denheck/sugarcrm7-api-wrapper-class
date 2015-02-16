@@ -15,6 +15,5 @@
         "psr-0": {
             "Spinegar\\Sugar7Wrapper": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
